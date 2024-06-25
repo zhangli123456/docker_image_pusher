@@ -1,1 +1,1 @@
-weejewel/wg-easy
+ghcr.io/wg-easy/wg-easy
