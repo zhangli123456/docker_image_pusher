@@ -1,1 +1,1 @@
-gitlab-ee
+gitlab/gitlab-ee
