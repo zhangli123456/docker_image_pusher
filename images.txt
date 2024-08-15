@@ -1,1 +1,1 @@
-jumpserver/jms_all
+easysoft/zentao:18.13
