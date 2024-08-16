@@ -1,1 +1,1 @@
-redis:3.2.12-alpine3.8
+redis:latest
