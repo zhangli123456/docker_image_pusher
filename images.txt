@@ -1,1 +1,1 @@
-frooodle/s-pdf:latest
+gitlab/gitlab-ce:latest
