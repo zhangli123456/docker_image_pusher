@@ -1,1 +1,1 @@
-postgres:latest
+gitlab/gitlab-ce:17.3-ce.0
