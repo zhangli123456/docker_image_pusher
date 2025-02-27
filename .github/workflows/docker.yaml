@@ -39,6 +39,12 @@ jobs:
         # remove-codeql: 'true'
         build-mount-path: '/var/lib/docker/'
 
+         # 设置 Docker 支持旧格式
+      - name: Enable Docker experimental mode
+        run: |
+          echo '{"experimental":true}' | sudo tee /etc/docker/daemon.json
+          sudo systemctl restart docker
+
     - name: Restart docker
       run: sudo service docker restart
 
