@@ -1,1 +1,1 @@
-gitlab/gitlab-ce:latest
+gitlab/gitlab-ce:10.8.7-ce.0
