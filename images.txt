@@ -1,3 +1,2 @@
-php:5.4.45-fpm
-
+ghcr.io/wg-easy/wg-easy
 
