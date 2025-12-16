@@ -1,1 +1,1 @@
-seatable/seatable:latest
+seatable/seatable-developer:latest
